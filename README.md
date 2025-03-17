@@ -18,7 +18,7 @@ Dart – Programming language for Flutter
 ⚡ Installation
 
 Clone the repository:
-git clone https://github.com/your-username/ChatNova.git
+git clone https://github.com/Bhushan-3000/ChatNova.git
 cd ChatNova
 
 Install dependencies:
